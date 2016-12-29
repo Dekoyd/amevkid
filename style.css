@@ -6,4 +6,7 @@ body {background-color:;}
 .red{background-color:red;}
 .orange{background-color:orange; }
 
+.lbar { float:left ; width:; background-color:; }
+.rbar { float:right ; width:; background-color:; }
+.middle { margin-left:; margin-right:130px; background-color:; }
 
